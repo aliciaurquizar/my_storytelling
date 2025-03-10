@@ -10,9 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Daniel Tomás Lucas
+- :woman: Irene Guirado Vera
+- :woman: Alicia Urquízar Rodríguez
+- :woman: María Muros Castillo
 
 
 Proyecto (código): 
@@ -20,9 +21,9 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
