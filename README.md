@@ -32,10 +32,14 @@ Tipo/Género:
 
 ### Personaje
 
+
 ![](img-nobody.png)
 
 Nombre: 
 
+
+NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
+* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
 
